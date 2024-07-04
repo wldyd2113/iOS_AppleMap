@@ -13,6 +13,7 @@
 		3B024FF62C365B2100590E8F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3B024FF52C365B2100590E8F /* Base */; };
 		3B024FF82C365B2400590E8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B024FF72C365B2400590E8F /* Assets.xcassets */; };
 		3B024FFB2C365B2400590E8F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3B024FFA2C365B2400590E8F /* Base */; };
+		3B0250032C365C0400590E8F /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0250022C365C0400590E8F /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3B024FF72C365B2400590E8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B024FFA2C365B2400590E8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B024FFC2C365B2400590E8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B0250022C365C0400590E8F /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				3B024FEE2C365B2100590E8F /* AppDelegate.swift */,
 				3B024FF02C365B2100590E8F /* SceneDelegate.swift */,
+				3B0250022C365C0400590E8F /* MapViewController.swift */,
 				3B024FF22C365B2100590E8F /* ViewController.swift */,
 				3B024FF42C365B2100590E8F /* Main.storyboard */,
 				3B024FF72C365B2400590E8F /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				3B024FF32C365B2100590E8F /* ViewController.swift in Sources */,
 				3B024FEF2C365B2100590E8F /* AppDelegate.swift in Sources */,
 				3B024FF12C365B2100590E8F /* SceneDelegate.swift in Sources */,
+				3B0250032C365C0400590E8F /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
